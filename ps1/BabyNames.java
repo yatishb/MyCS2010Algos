@@ -1,9 +1,5 @@
 import java.util.*;
 
-// A0091545A
-// Bathini Yatish
-// Pan Yuxuan, Shubhendra Agarwal, Karthik Raj, Yung Yi
-
 class BabyNames {
 
 	private static final int genderPreference_NotGiven = -1;

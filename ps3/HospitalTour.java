@@ -1,9 +1,5 @@
 import java.util.*;
 
-// A0091545A
-// Bathini Yatish
-// 
-
 /*
  * This problem is solved using the Depth First Search mechanism implemented on the entered 
  * graph. The graph entered is read in the form of an Adjacency matrix and then we remove 

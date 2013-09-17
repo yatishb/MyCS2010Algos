@@ -1,9 +1,5 @@
 import java.util.*;
 
-// A0091545A
-// Bathini Yatish
-// CP2.5, Nirav Gandhi, Carl Simon, Karthik Raj
-
 /*
  * Implementing Tarjan algorithm which runs in O(V+E)
  */

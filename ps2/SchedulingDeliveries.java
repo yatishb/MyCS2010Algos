@@ -1,9 +1,5 @@
 import java.util.*;
 
-// A0091545A
-// Bathini Yatish
-// Karthik Raj, Nyugen Trung Hieu
-
 class SchedulingDeliveries {
 
 	public static Vector<PregnantWomen> womenAtHospital = new Vector();

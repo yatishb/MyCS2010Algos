@@ -1,8 +1,5 @@
 import java.util.*;
 
-// A0091545A
-// Bathini Yatish
-// Steven Halim
 
 class Labor {
   private int V; // number of vertices in the graph (number of junctions in Singapore map)

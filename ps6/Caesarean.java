@@ -1,8 +1,5 @@
 import java.util.*;
 
-// A0091545A
-// Bathini Yatish
-// Yung Yi
 
 class Caesarean {
   private int V; // number of vertices in the graph (steps of a Caesarean section surgery)

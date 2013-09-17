@@ -1,9 +1,5 @@
 import java.util.*;
 
-// A0091545A
-// Bathini Yatish
-// Nirav, Karthik, Anirup, Toh Yong Yao, Kwan Yong Kang Nicholas, Yuxuan
-
 class OutForAWalk {
 	private int V; // number of vertices in the graph (number of rooms in the building)
 	private Vector<Vector<IntegerPair>> AdjList; // the weighted graph (the building), effort rating of each corridor is stored here too
