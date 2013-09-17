@@ -1,0 +1,400 @@
+graph 1 is connected!
+70
+graph 2 is not connected!
+0
+graph 3 is not connected!
+0
+graph 4 is connected!
+39
+graph 5 is not connected!
+0
+graph 6 is connected!
+103
+graph 7 is not connected!
+1
+graph 8 is connected!
+-1
+graph 9 is not connected!
+0
+graph 10 is connected!
+4
+graph 11 is not connected!
+1
+graph 12 is not connected!
+0
+graph 13 is connected!
+0
+graph 14 is not connected!
+4
+graph 15 is not connected!
+0
+graph 16 is not connected!
+2
+graph 17 is not connected!
+1
+graph 18 is not connected!
+0
+graph 19 is not connected!
+0
+graph 20 is not connected!
+0
+graph 21 is connected!
+36
+graph 22 is not connected!
+0
+graph 23 is not connected!
+1
+graph 24 is not connected!
+2
+graph 25 is not connected!
+0
+graph 26 is connected!
+54
+graph 27 is not connected!
+1
+graph 28 is connected!
+55
+graph 29 is not connected!
+1
+graph 30 is not connected!
+3
+graph 31 is not connected!
+0
+graph 32 is connected!
+6
+graph 33 is not connected!
+2
+graph 34 is connected!
+-1
+graph 35 is not connected!
+0
+graph 36 is not connected!
+1
+graph 37 is not connected!
+0
+graph 38 is not connected!
+0
+graph 39 is connected!
+75
+graph 40 is not connected!
+1
+graph 41 is connected!
+4
+graph 42 is not connected!
+0
+graph 43 is connected!
+52
+graph 44 is connected!
+19
+graph 45 is not connected!
+2
+graph 46 is connected!
+73
+graph 47 is not connected!
+0
+graph 48 is connected!
+17
+graph 49 is not connected!
+0
+graph 50 is connected!
+15
+graph 51 is not connected!
+1
+graph 52 is connected!
+21
+graph 53 is connected!
+68
+graph 54 is not connected!
+0
+graph 55 is connected!
+9
+graph 56 is not connected!
+0
+graph 57 is not connected!
+0
+graph 58 is not connected!
+0
+graph 59 is connected!
+37
+graph 60 is not connected!
+1
+graph 61 is connected!
+36
+graph 62 is not connected!
+1
+graph 63 is not connected!
+0
+graph 64 is connected!
+2
+graph 65 is not connected!
+2
+graph 66 is connected!
+3
+graph 67 is not connected!
+0
+graph 68 is not connected!
+0
+graph 69 is not connected!
+2
+graph 70 is not connected!
+1
+graph 71 is not connected!
+1
+graph 72 is not connected!
+0
+graph 73 is not connected!
+0
+graph 74 is connected!
+37
+graph 75 is not connected!
+1
+graph 76 is not connected!
+0
+graph 77 is connected!
+4
+graph 78 is not connected!
+0
+graph 79 is not connected!
+0
+graph 80 is not connected!
+1
+graph 81 is connected!
+21
+graph 82 is not connected!
+0
+graph 83 is not connected!
+0
+graph 84 is not connected!
+0
+graph 85 is connected!
+4
+graph 86 is not connected!
+0
+graph 87 is connected!
+15
+graph 88 is connected!
+77
+graph 89 is not connected!
+0
+graph 90 is not connected!
+1
+graph 91 is connected!
+-1
+graph 92 is connected!
+100
+graph 93 is not connected!
+1
+graph 94 is connected!
+76
+graph 95 is connected!
+46
+graph 96 is connected!
+10
+graph 97 is connected!
+3
+graph 98 is not connected!
+0
+graph 99 is not connected!
+0
+graph 100 is connected!
+-1
+graph 101 is not connected!
+0
+graph 102 is connected!
+1
+graph 103 is not connected!
+0
+graph 104 is not connected!
+0
+graph 105 is not connected!
+0
+graph 106 is not connected!
+0
+graph 107 is not connected!
+1
+graph 108 is not connected!
+0
+graph 109 is not connected!
+0
+graph 110 is connected!
+18
+graph 111 is not connected!
+0
+graph 112 is not connected!
+1
+graph 113 is not connected!
+1
+graph 114 is connected!
+-1
+graph 115 is connected!
+17
+graph 116 is connected!
+56
+graph 117 is not connected!
+0
+graph 118 is not connected!
+0
+graph 119 is not connected!
+0
+graph 120 is connected!
+144
+graph 121 is connected!
+61
+graph 122 is not connected!
+1
+graph 123 is connected!
+56
+graph 124 is not connected!
+0
+graph 125 is connected!
+-1
+graph 126 is not connected!
+1
+graph 127 is not connected!
+1
+graph 128 is connected!
+107
+graph 129 is connected!
+132
+graph 130 is not connected!
+0
+graph 131 is not connected!
+1
+graph 132 is not connected!
+0
+graph 133 is not connected!
+0
+graph 134 is not connected!
+0
+graph 135 is connected!
+60
+graph 136 is not connected!
+0
+graph 137 is not connected!
+0
+graph 138 is connected!
+16
+graph 139 is not connected!
+0
+graph 140 is connected!
+36
+graph 141 is not connected!
+1
+graph 142 is connected!
+48
+graph 143 is not connected!
+0
+graph 144 is not connected!
+1
+graph 145 is not connected!
+4
+graph 146 is not connected!
+0
+graph 147 is not connected!
+0
+graph 148 is connected!
+47
+graph 149 is not connected!
+0
+graph 150 is connected!
+7
+graph 151 is connected!
+4
+graph 152 is not connected!
+0
+graph 153 is connected!
+15
+graph 154 is not connected!
+1
+graph 155 is not connected!
+2
+graph 156 is not connected!
+1
+graph 157 is connected!
+-1
+graph 158 is not connected!
+1
+graph 159 is not connected!
+1
+graph 160 is not connected!
+1
+graph 161 is not connected!
+0
+graph 162 is connected!
+-1
+graph 163 is connected!
+-1
+graph 164 is not connected!
+2
+graph 165 is connected!
+13
+graph 166 is not connected!
+1
+graph 167 is connected!
+-1
+graph 168 is not connected!
+0
+graph 169 is not connected!
+0
+graph 170 is not connected!
+1
+graph 171 is connected!
+34
+graph 172 is not connected!
+2
+graph 173 is not connected!
+0
+graph 174 is not connected!
+0
+graph 175 is not connected!
+0
+graph 176 is not connected!
+0
+graph 177 is not connected!
+0
+graph 178 is connected!
+15
+graph 179 is not connected!
+0
+graph 180 is not connected!
+1
+graph 181 is connected!
+145
+graph 182 is not connected!
+0
+graph 183 is not connected!
+0
+graph 184 is connected!
+66
+graph 185 is not connected!
+2
+graph 186 is connected!
+-1
+graph 187 is connected!
+88
+graph 188 is not connected!
+0
+graph 189 is connected!
+76
+graph 190 is not connected!
+1
+graph 191 is connected!
+-1
+graph 192 is not connected!
+1
+graph 193 is connected!
+48
+graph 194 is connected!
+50
+graph 195 is not connected!
+0
+graph 196 is not connected!
+2
+graph 197 is not connected!
+0
+graph 198 is not connected!
+1
+graph 199 is not connected!
+0
+graph 200 is not connected!
+0

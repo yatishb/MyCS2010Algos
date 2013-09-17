@@ -1,0 +1,1 @@
+Added time calculation component. Measured 0.4-0.5s

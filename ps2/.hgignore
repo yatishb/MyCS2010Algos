@@ -1,0 +1,22 @@
+syntax: glob
+ps2.pdf
+Subtask2.txt
+Subtask2-ans.txt
+Subtask1.txt
+Subtask1-ans.txt
+Sample.txt
+Sample-ans.txt
+actual.txt
+hugetestcases/testcase1-ans.txt
+hugetestcases/testcase2.txt
+hugetestcases/testcase2-ans.txt
+hugetestcases/testcase1.txt
+testcase1-ans.txt
+testcase2.txt
+testcase2-ans.txt
+testcase1.txt
+smallcase-ans.txt
+smallcase.txt
+bigcase-ans.txt
+bigcase.txt
+SchedulingDeliveries_A0091545A.zip
